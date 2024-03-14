@@ -1,0 +1,7 @@
+.App{
+    padding-top: 150px;
+    font-size: 30px;
+}
+.App div{
+    border: 1px solid black;
+}
